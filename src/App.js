@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+import logo from "./images/icon-spock.svg";
+
 import "./App.css";
 
 function App() {
